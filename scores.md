@@ -2,7 +2,7 @@
 
 | year    | p1 | p2 | p3 |
 |:-------:|:--:|:--:|:--:|
-| y2019e2 | 47 |    |    |
+| y2019e2 | 47 | 38 |    |
 
 # P1 Answers Record
 
@@ -10,4 +10,3 @@
 |:-------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| -----   |
 | y2019e1 | CDABA DCCBA | BBDBD DCACD | DBDBD ADACD | CCCCA BBDBD | DAABC DBABD | DBCBA AABAA | CDADD ADDAC | CDADB   |
 |         | ----- -AA-- | ----- --D-B | --CA- -C--B | ----- -AA-C | B-BD- --DC- | ---CD -D--- | DCBBB ----- | BB-CD   |
-
